@@ -1,1 +1,1 @@
-# pepe-payment
+# pepe-payment.com
